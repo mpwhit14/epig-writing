@@ -1,5 +1,9 @@
 ﻿## Project Journal
 
+**30 September 2013**
+
+I added glossary notes to the citable topics and to the concepts.
+
 **28 September 2013**
 
 TO DO:
