@@ -1,4 +1,16 @@
-## Project Journal
+﻿## Project Journal
+
+**6 October 2013**
+
+I tagged some more pictures and began writing a how-to-read-an-inscription guide.  I want to include guides on Roman numerals, names, and dating systems.  I also would like to figure out how to cite images within markdown (citedown extensions).
+
+TO DO:
+- how to guides
+- more tagging
+- pics of Latin at HC
+- clean up outlines
+- tag 4580
+- index texts to images
 
 **4 October 2013**
 
