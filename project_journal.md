@@ -1,4 +1,17 @@
-﻿## Project Journal
+## Project Journal
+
+**11 October 2013**
+
+Editing day.
+
+Questions:
+- What are the abbreviations D O M in IMG_2314?
+- What if a word continues onto the next line?  IMG_2717
+	-- <w part="I"> ?  YES
+- "EG EG" ?? IMG_2721
+- "V V" ?? IMG_4789 and 4792
+- All abbreviations in doc19
+- gap in doc21
 
 **6 October 2013**
 
