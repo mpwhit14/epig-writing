@@ -1,5 +1,9 @@
 ## Project Journal
 
+**14 October 2013**
+
+I am working on tagging and thinking about design.  What would be a good entry point into the data?  I like the idea of broad categories into narrow topics into images for sort of an index, but I also want some guided entry.
+
 **11 October 2013**
 
 Editing day.
@@ -12,6 +16,8 @@ Questions:
 - "V V" ?? IMG_4789 and 4792
 - All abbreviations in doc19
 - gap in doc21
+
+Left off at image 5213, but the last three editions need to be looked at again and the abbreviations need to be filled in.
 
 **6 October 2013**
 
