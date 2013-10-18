@@ -1,5 +1,9 @@
 ## Project Journal
 
+**17 October 2013**
+
+More tagging.  When I am finished, I should go back through and see what I missed.
+
 **14 October 2013**
 
 I am working on tagging and thinking about design.  What would be a good entry point into the data?  I like the idea of broad categories into narrow topics into images for sort of an index, but I also want some guided entry.
