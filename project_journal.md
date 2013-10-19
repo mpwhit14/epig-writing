@@ -1,5 +1,9 @@
 ## Project Journal
 
+**19 October 2013**
+
+IMG_7993 is Italian.  Oops.
+
 **17 October 2013**
 
 More tagging.  When I am finished, I should go back through and see what I missed.
