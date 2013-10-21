@@ -1,16 +1,16 @@
-How soon can we address the subjunctive
-Subj before passive
-Perfect and imperfect in the same
-
 #Outline for introduction to Latin
 
-The Noun (1st, 2nd, and 3rd declension)
-Case/number/gender
-Nominative
-Genitive
+Roman numerals/numbers
 
-Dative
-Ablative
+The Noun (1st, 2nd, and 3rd declension)
+
+- Case/number/gender
+
+	- Nominative
+
+	- Dative
+
+	- Ablative
 
 			[able to read COINS]
 			[http://numismatics.org/collection/1937.158.333]
@@ -19,170 +19,104 @@ Ablative
 			[http://numismatics.org/collection/1944.100.4790]
 			[http://numismatics.org/collection/1937.158.333]
 			
+- Noun-adjective agreement
+
+- Substantive
+
+- Comparative and superlative adjectives
 
 The Verb: principal parts
-Perfect active
-Accusative case
 
-Imperfect active
+- Perfect active
+
+- Accusative case
+
+			[able to read MOST INSCRIPTIONS]
+- Personal pronouns
+
+- Relative pronouns
+
+- Imperfect active
+
+			[teach the imperfect first, because it is seen more often]
 			[CIL 3.10501 By Roman Hands p15]
 			[CIL 4.2146 By Roman Hands p32]
 			[CIL 9.5659 By Roman Hands p52]
 
-Present active
+- Present active
 
-Present active subjunctive 
-purpose clauses
+- Adverbs
+	- Comparative and superlative adjectives
 
-Imperfect active subjunctive
+- Irregular verbs
+	- Sum
+	- Possum
+	- Volo
+	- Nolo
+	- Malo
+	- Fero
+	- Eo
 
-Pluperfect active
+			[all of these verbs should probably be broken up]
 
-Pluperfect active subjunctive
+- Prepositions
 
-Future
+- Present active imperative/passive imperative
 
-Future perfect active
+- Vocative
 
+			[link the vocative with the imperative for practice]
 
+- Present active subjunctive 
 
+	- independent uses
+	- purpose clauses
 
+			[independent uses are not seen often, but they are easy to understand and come naturally when talking about commands]
+			[move into purpose clauses]
 
+- Participles
+- Ablative absolute
 
+- Reflexive pronoun
 
+			[take a break from the verbs]
 
+- Infinitives (complementary)
+	- Indirect statement
+	
+- Constructions of place
+	- To which
+	- From which
+	- Locative
 
+- Demonstrative pronouns
+	- Hic, haec, hoc
+	- Ille, illa, illud
+	- Is, ea, id
 
+- Imperfect active subjunctive
 
+			[teach infinitives before teaching imperfect subjunctive for the sake of the mnemonic]
 
+- 4th/5th declensions
 
+- Pluperfect active
 
+			[feels like this should be grouped with perfect, but I don't want to introduce it until the imperfect form of sum is solidified]
 
+- Pluperfect active subjunctive
 
+- Deponent verbs
 
-The Adjective: 1st, 2nd, and 3rd declension
-Noun-adjective agreement
-Substantive
-Relevant case usages
-Personal pronoun
+- Future
 
-IMPERFECT
+- Future perfect active
 
-The Verb: conjugations
-Present indicative active
-Infinitives (complementary)
+- Gerunds
 
-The Verb: commands
-Present active imperative/passive imperative
-Vocative
+- Gerundives
 
-The Verb: irregular
-Sum
-Possum
-Volo
-Nolo
-Malo
+- Passive periphrastic
 
-Relative pronouns
-
-Demonstrative pronouns
-Hic, haec, hoc
-Ille, illa, illud
-Is, ea, id
-
-The Verb: passive
-Present passive indicative
-Ablative of agent
-Prepositions
-
-The Verb: irregular
-Eo
-Fero
-Fio
-Indefinite pronouns
-
-Imperfect active indicative
-Imperfect passive indicative
-Adverbs
-
-4th/5th declensions
-Comparative and superlative adjectives/adverbs
-
-Future active indicative
-Future passive indicative
-
-Interrogative pronoun/adjective
-Intensive pronoun
-
-Reflexive pronoun
-Constructions of place
-To which
-From which
-Locative
-Numbers
-
-Pluperfect active/passive
-Future perfect active/passive
-Expressions of time
-
-Participles
-Ablative absolute
-
-Infinitives
-Indirect statement
-
-Deponent verbs
-
-Gerunds
-Gerundives
-Passive periphrastic
-
-The Verb: subjunctive
-Present active/passive
-Hortatory/jussive
-Optative
-Deliberative
-Potential
-
-Imperfect  active subjunctive/passive subjunctive
-Purpose/result clauses
-
-Perfect active subjunctive/passive subjunctive
-Pluperfect active subjunctive/passive subjunctive
-Sequence of tense
-
-Cum clauses
-Circumstantial
-Causal
-Concessive
-Temporal
-
-Conditions
-
-Noun clauses
-Indirect question
-Indirect command
-Fear clauses
-
-More relative clauses
-Characteristic
-Purpose
-
-Impersonal constructions
-
-Supine
-Ut + indicative
-
-To be included
-UNUS NAUTA
-Dative of reference
-Partitive genitive
-I-stems
-Accusative of extent or degree
-Dative with adjectives
-Possessive adjectives
-Ablative of specification
-Dative with compound verbs
-Dative of purpose
-Ablative of description
-Ablative of degree of difference
+			[not sure what to do with these.  Perhaps group with participles?  Too much?]
