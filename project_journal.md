@@ -1,5 +1,22 @@
 ## Project Journal
 
+**21 October 2013**
+
+Should we add more data, or should we edit views of the existing data?  The image is connected to the text and the topic, but the text and the topic are not connected.  Should we connect them specifically?  It seems to make sense that the text and topics should be connected when it comes to complicated structures, like clauses or features that are split in the inscription.  With simpler topics, like morphological things, the image can suffice.
+
+SOMETHING TO THINK ABOUT:  How should the data be viewed?  At what point can it be entered?  I can see three possible presentations:
+
+1. A guided view, that is sort of like a textbook.  An introduction to grammar with inscriptions as illustrations.
+2. A collection of images organized by topic (basically what we have now).  Easy to find illustrations for any curriculum.
+3. A guided view, but focused on types of inscriptions rather than grammar.
+
+TO DO:
+
+- create a leanpub account
+- how to guides
+- pics of Latin at HC
+- review tagging
+
 **19 October 2013**
 
 IMG_7993 is Italian.  Oops.
