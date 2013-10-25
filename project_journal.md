@@ -1,5 +1,25 @@
 ## Project Journal
 
+**25 October 2013**
+
+TO DO:
+
+- create a leanpub account
+- how to guides
+- pics of Latin at HC
+- review tagging
+- change inscription to document inventory to be more specific
+
+Questions:
+- What are the abbreviations D O M in IMG_2314?
+- What if a word continues onto the next line?  IMG_2717
+	-- <w part="I"> ?  YES
+- "EG EG" ?? IMG_2721
+- "V V" ?? IMG_4789 and 4792
+- All abbreviations in doc19
+- gap in doc21,doc23
+- expansions in doc21,22,23,24,30
+
 **21 October 2013**
 
 Should we add more data, or should we edit views of the existing data?  The image is connected to the text and the topic, but the text and the topic are not connected.  Should we connect them specifically?  It seems to make sense that the text and topics should be connected when it comes to complicated structures, like clauses or features that are split in the inscription.  With simpler topics, like morphological things, the image can suffice.
