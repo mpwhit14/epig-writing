@@ -1,5 +1,9 @@
 ## Project Journal
 
+**27 October 2013**
+
+Anything morphological really does not need to be linked to the text.  Nor do case usages really need to be linked to the text, if they are just one word (ablative of time, etc).  I would like to link more complicated clauses (subjunctives, relative clauses, etc) to the text - how?
+
 **25 October 2013**
 
 TO DO:
@@ -9,6 +13,7 @@ TO DO:
 - pics of Latin at HC
 - review tagging
 - change inscription to document inventory to be more specific
+- create guides for coins, names, etc
 
 Questions:
 - What are the abbreviations D O M in IMG_2314?
