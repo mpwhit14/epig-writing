@@ -27,7 +27,7 @@ Inscriptions tend to be ripe with abbreviations, which makes sense - carving int
 
 *3) They are using Roman numerals!  How do I tell the difference between a letter and a number??*
 
-A bar is usually drawn over numerals in order to represent thousands.  The rest of the time, there is nothing differentiating numerals from letters, except that a numeral is set apart by small points on each side (like the other words in an inscription).  There is one dead giveaway, however: numerals will never include a vowel!  The following symbols are used for Roman numerals in Latin inscriptions:
+A bar is usually drawn over numerals in order to represent thousands.  The rest of the time, there is nothing differentiating numerals from letters, except that a numeral is set apart by small points on each side (like the other words in an inscription).  The following symbols are used for Roman numerals in Latin inscriptions:
 
 **I** = 1
 **V** = 5

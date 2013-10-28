@@ -1,5 +1,14 @@
 ## Project Journal
 
+**28 October 2013**
+
+TO DO:
+
+- create a leanpub account
+- pics of Latin at HC
+- review tagging
+- create guides for coins, names, etc
+
 **27 October 2013**
 
 Anything morphological really does not need to be linked to the text.  Nor do case usages really need to be linked to the text, if they are just one word (ablative of time, etc).  I would like to link more complicated clauses (subjunctives, relative clauses, etc) to the text - how?
@@ -17,13 +26,10 @@ TO DO:
 
 Questions:
 - What are the abbreviations D O M in IMG_2314?
-- What if a word continues onto the next line?  IMG_2717
-	-- <w part="I"> ?  YES
 - "EG EG" ?? IMG_2721
 - "V V" ?? IMG_4789 and 4792
-- All abbreviations in doc19
 - gap in doc21,doc23
-- expansions in doc21,22,23,24,30
+- expansions in doc19,23,30
 
 **21 October 2013**
 
