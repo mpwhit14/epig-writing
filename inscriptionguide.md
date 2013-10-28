@@ -15,7 +15,7 @@ Latin epigraphy is the study of ancient Roman writing.  This is not limited to i
 
 *1) How do I read this when there is no spacing or punctuation??* 
 
-Reading Latin epigraphy is not as difficult as it seems!  With practice, it will become easier and easier.  Most inscriptions have little points between every word, which helps the reader determine where one word ends and the next begins.  In addition, some inscriptions have a deliberate visual placement:  that is, the text is centered, ordered, and divided into chunks in a very deliberate way.  These sentence chunks mirror the grammatical structure of the text, which aids us in translation.
+Reading Latin epigraphy is not as difficult as it seems!  With practice, it will become easier and easier.  Most inscriptions have little points between every word, which help the reader determine where one word ends and the next begins.  In addition, some inscriptions have a deliberate visual placement:  that is, the text is centered, ordered, and divided into chunks in a very deliberate way.  These sentence chunks mirror the grammatical structure of the text, which aids us in translation.
 
 [The Arches of Titus/Septimius Severus are good illustrations of this.]
 

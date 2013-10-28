@@ -2,15 +2,17 @@
 
 Roman numerals/numbers
 
-The Noun (1st, 2nd, and 3rd declension)
+----
 
-- Case/number/gender
+####The Noun (1st, 2nd, and 3rd declension)
 
-	- Nominative
+####Case/number/gender
 
-	- Dative
+####Nominative
 
-	- Ablative
+####Dative
+
+####Ablative
 
 			[able to read COINS]
 			[http://numismatics.org/collection/1937.158.333]
@@ -18,7 +20,8 @@ The Noun (1st, 2nd, and 3rd declension)
 			[http://numismatics.org/collection/1970.156.31]
 			[http://numismatics.org/collection/1944.100.4790]
 			[http://numismatics.org/collection/1937.158.333]
-			
+	
+----		
 - Noun-adjective agreement
 
 - Substantive
