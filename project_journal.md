@@ -1,5 +1,16 @@
 ## Project Journal
 
+**1 November 2013**
+
+Editing day.  Left off before IMG_5359.
+
+TO DO:
+
+- update inventory
+- pics of Latin at HC
+- review tagging
+- guides
+
 **28 October 2013**
 
 TO DO:
