@@ -1,5 +1,16 @@
 ## Project Journal
 
+**4 November 2013
+
+TO DO:
+- pics of Latin at HC
+- review tagging
+- guides
+- historical blurbs
+- expand on things already written to include citedown
+
+Things to remember:  **You can't explain something familiar with something unfamiliar.**
+
 **1 November 2013**
 
 Editing day.  Left off before IMG_5359.
@@ -10,6 +21,13 @@ TO DO:
 - pics of Latin at HC
 - review tagging
 - guides
+
+Questions:
+- What are the abbreviations D O M in IMG_2314?
+- "EG EG" ?? IMG_2721
+- "V V" ?? IMG_4789 and 4792
+- gap in doc21,doc23
+- expansions in doc19,23,30
 
 **28 October 2013**
 

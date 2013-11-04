@@ -23,7 +23,7 @@ Reading Latin epigraphy is not as difficult as it seems!  With practice, it will
 
 Inscriptions tend to be ripe with abbreviations, which makes sense - carving into stone is hard work, so why write the whole word if you do not really have to?  Some abbreviations are easy to figure out, such as "f" for "filius" or "imp" for "imperator".  However, other abbreviations are not used nearly as often.
 
-[Need a guide for abbreviations]
+[Shortlist of MOST COMMON?]
 
 *3) They are using Roman numerals!  How do I tell the difference between a letter and a number??*
 
