@@ -1,6 +1,9 @@
 ####Ablative
 
-The **ablative** case can usually be translated with "by" or "with".  This case can be used for many, many functions in the sentence, including prepositional phrases, words expressing time, and location.  These will be addressed later.  Most of the time, however, the ablative case shows "by" or "with" what tool or what manner something is done.
+The {ablative}[abl] case can usually be translated with "by" or "with".  This case can be used for many, many functions in the sentence, including prepositional phrases, words expressing time, and location.  These will be addressed later.  Most of the time, however, the ablative case shows "by" or "with" what tool or what manner something is done.
+
+[abl]: urn:cite:hclat:category.ablative
+
 
 			[ablative in regards to coins??]
 
