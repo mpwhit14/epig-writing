@@ -1,6 +1,16 @@
 ## Project Journal
 
-**4 November 2013
+**8 November 2013**
+
+Docs with questions (gaps/unclear)
+1, 21, 23, 19, 30, 31, 33, 35
+
+IMG_5741 is missing
+
+Left off after IMG_5795
+Christine answered my question re: gaps
+
+**4 November 2013**
 
 TO DO:
 - pics of Latin at HC
@@ -23,11 +33,12 @@ TO DO:
 - guides
 
 Questions:
-- What are the abbreviations D O M in IMG_2314?
+- What are the abbreviations D O M in IMG_2314?  Deo Optimo Maximo?
 - "EG EG" ?? IMG_2721
 - "V V" ?? IMG_4789 and 4792
 - gap in doc21,doc23
 - expansions in doc19,23,30
+- unclear in doc31,33
 
 **28 October 2013**
 
