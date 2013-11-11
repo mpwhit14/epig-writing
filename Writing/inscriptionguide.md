@@ -1,6 +1,6 @@
 ##How to read an inscription
 
-At first glance, most Latin inscriptions can be somewhat overwhelming.  There is no punctuation, little spacing between words, and they are full of abbreviations as short as one letter.  The text does not seem like Latin or really any language at all!  However, after some close examination, we may discover that the inscriptions are not as difficult to read as we thought they were.  There are many clues that can help us not only read the text, but also find out more about the artifact.
+At first glance, most Latin inscriptions can be somewhat overwhelming.  There is no punctuation, little spacing between words, and they are full of abbreviations as short as one letter.  The text does not seem like Latin or really any language at all.  However, after some close examination, we may discover that the inscriptions are not as difficult to read as we thought they were.  There are many clues that can help us not only read the text, but also find out more about the artifact.
 
 The first step when dealing with an inscription is to determine what kind of inscription it is.  Does it dedicate a monument?  Is it an epitaph?  Graffiti?  What is the purpose of the inscription?  This collection includes inscriptions in two main categories, which are:
 
@@ -15,9 +15,11 @@ Latin epigraphy is the study of ancient Roman writing.  This is not limited to i
 
 *1) How do I read this when there is no spacing or punctuation??* 
 
-Reading Latin epigraphy is not as difficult as it seems!  With practice, it will become easier and easier.  Most inscriptions have little points between every word, which help the reader determine where one word ends and the next begins.  In addition, some inscriptions have a deliberate visual placement:  that is, the text is centered, ordered, and divided into chunks in a very deliberate way.  These sentence chunks mirror the grammatical structure of the text, which aids us in translation.
+Reading Latin epigraphy is not as difficult as it seems.  With practice, it will become easier and easier.  Most inscriptions have little points between every word, which help the reader determine where one word ends and the next begins.  In addition, some inscriptions have a deliberate visual placement:  that is, the text is centered, ordered, and divided into chunks in a very deliberate way.  These sentence chunks mirror the grammatical structure of the text, which aids us in translation.
 
-[The Arches of Titus/Septimius Severus are good illustrations of this.]
+For example, consider the {Arch of Septimius Severus}[arch].  When you look at the main inscription on the top of the arch, the text looks centered on the monument and some lines are a lot shorter than the others.  This is most likely a purposeful arrangement of the lines.  The {first few lines}[archline1-2] begins the inscription by announcing for whom the monument was built.  This is a very typical construction for dedicatory inscriptions of this kind:  the understood sentence is "This monument was built..." and the inscription answers "for whom?".  So, the first line is a list of titles related to the emperor, Septimius Severus.  The {third line}[archline3] continues in this pattern, adding that the arch was built not only for Septimius Severus, but also for his son Marcus Aurelius Antoninus (better known to us as Caracalla).  The {fourth line}[archline4] then addresses both men at the same time with adjectives in the plural, and the {fourth line}[archline4} finally describes *why* the arch is being built for them.  
+
+The fourth line is historically interesting because it was scratched out and written over after the *damnatio memoriae* of Geta (which will be discussed later on), but it can be seen that even the original line was by far the shortest of the inscription.  The {fifth line}[archline5], which is entirely one prepositional phrase, seems to be set apart - perhaps *because* it is entirely one prepositional phrase.  
 
 *2) What do all of those letters mean??*
 
@@ -37,6 +39,12 @@ A bar is usually drawn over numerals in order to represent thousands.  The rest 
 **D** = 500
 **Q** = 500,000
 
-[need guide to roman numerals]
-[need guide to dating]
-[need guide to names]
+-->need guide to roman numerals
+-->need guide to dating
+-->need guide to names
+
+[arch]{urn:cite:shot:epigimg.IMG_4798}
+[archline1-2]{urn:cts:latepig:inscriptions.doc18:1-2}
+[archline3]{urn:cts:latepig:inscriptions.doc18:3}
+[archline4]{urn:cts:latepig:inscriptions.doc18:4}
+[archline5]{urn:cts:latepig:inscriptions.doc18:5}

@@ -1,11 +1,21 @@
-##How to read an inscription
+##For writing
+How and why is the project organized?
 
-1. What is the context?  Where did it come from?
-2. What kind of inscription is it?
-	- dedicatory
-	- funerary
-	- etc
-3. Handy list of abbreviations
+	- why this RDF graph
+	- the potential of simple relationships
+	
+How and why is the curriculum organized?
+
+	- the rationale for teaching which subjects first
+	- the benefits of teaching with an inscription
+	- the teachable moments - history, culture, etc
+	
+What kind of views do we want and why?
+
+	- guided tour, with descriptions of topics and contexts
+
+What should we do with the abbreviations?
+What kind of analyses or associations could we gain from a simple URN reference?
 
 ##How to read a coin
 
