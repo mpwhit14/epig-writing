@@ -1,5 +1,16 @@
 ## Project Journal
 
+**11 November 2013**
+
+TO DO:
+
+- pics of Latin at HC
+- review tagging
+- guides
+- historical blurbs
+- expand on things already written to include citedown
+- fix gaps/unclear tags
+
 **8 November 2013**
 
 Docs with questions (gaps/unclear)
@@ -13,6 +24,7 @@ Christine answered my question re: gaps
 **4 November 2013**
 
 TO DO:
+
 - pics of Latin at HC
 - review tagging
 - guides
@@ -33,6 +45,7 @@ TO DO:
 - guides
 
 Questions:
+
 - What are the abbreviations D O M in IMG_2314?  Deo Optimo Maximo?
 - "EG EG" ?? IMG_2721
 - "V V" ?? IMG_4789 and 4792
