@@ -1,5 +1,9 @@
 ## Project Journal
 
+**22 November 2013**
+
+Continued to add corpus reference numbers, where I can find them in the Heidleberg project.
+
 **11 November 2013**
 
 TO DO:
