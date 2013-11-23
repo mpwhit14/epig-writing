@@ -1,4 +1,4 @@
-#####Noun-adjective agreement
+####Noun-adjective agreement
 
 As was discussed earlier, nouns have three major characteristics: (1) case, (2) number, and (3) gender.  If an adjective is describing a noun, it must have the same case, number, and gender.  Often this means the endings match, but not always - for example, "angry girls" are "*iratae puellae*", but "angry dogs" are "*irati canes*".
 
@@ -14,4 +14,8 @@ Like nouns, adjectives are also organized into **declensions**.  These declensio
 
 Because we can tell the number and gender of an adjective, sometimes an adjective can stand in the place of a noun.  This is called a **substantive adjective**.  For example, when writing about the *iratae puellae*, the phrase "angry girls" can be shortened to just *iratae* - since the ending on the adjective tells us that whomever is angry is feminine and plural.  
 
+*A few key terms*
+- **first and second declension adjectives**
+- **third declension adjectives**
+- **substantives**
 
