@@ -4,6 +4,31 @@
 
 Continued to add corpus reference numbers, where I can find them in the Heidleberg project.
 
+**18 November 2013**
+
+From the meeting this morning:
+- need to be able to coordinate with vocab of the textbook (Dave Perretta is making great lists)
+	- requires tokenizing and analyzing the text
+- look for the ablative absolute on coins (full sentences that aren't really full sentences!)
+- Exempla are really the way that we learn.  We need something we can grab on to.
+
+Electronic resources in the classroom?
+- if everyone has an iPad, how would a teacher do things differently?
+- airplay, easy display switching
+- collaboration:  class repository?
+	- write a tutorial for github
+	- write a tutorial for using critic markup
+- content can be reordered depending on needs of class (two tables of contents to illustrate this)
+	- write about how to create eBooks for iPads
+
+Talk in the spring?
+- how do we build ebooks?
+- what is the benefit of using a workbook on an ipad?
+- how do we use the visual evidence/annotation in a classroom?
+- how do we share this stuff on a repository?
+	- all changes are tracked and nothing is anonymous
+- what about *in classroom* collaboration?
+
 **11 November 2013**
 
 TO DO:
