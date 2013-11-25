@@ -35,11 +35,13 @@ Roman numerals/numbers
 
 ####The Verb: principal parts
 
-- Perfect active
+####Perfect active
 
-- Accusative case
+####Accusative case
 
 			[able to read MOST INSCRIPTIONS]
+####Neuter
+
 - Personal pronouns
 
 - Relative pronouns
