@@ -63,4 +63,4 @@ Dative | -i | -ibus
 
 *A few key terms*
 
-- **ablative**
+- **{ablative}[abl]**
