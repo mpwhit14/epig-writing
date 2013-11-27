@@ -1,6 +1,9 @@
 ####Comparative and Superlative Adjectives
 
-All of the adjectives that we have learned have been **positive** forms - that is, they are plain, normal adjectives, like "happy".  However, things are not always just "happy".  Sometimes things are "happier" or even "happiest".  These are called **degrees** of adjectives.  The three degrees of adjectives are the **positive**, the **comparative** (the "more" form), and the **superlative** (the "most" form).
+All of the adjectives that we have learned have been **positive** forms - that is, they are plain, normal adjectives, like "happy".  However, things are not always just "happy".  Sometimes things are "happier" or even "happiest".  These are called **degrees** of adjectives.  The three degrees of adjectives are the **positive**, the **{comparative}[comp]** (the "more" form), and the **{superlative}[supadj]** (the "most" form).
+
+[comp]: urn:cite:hclat:topic.compadj
+[supadj]: urn:cite:hclat:topic.supadj
 
 A **comparative** adjective in Latin is formed by taking the stem of an adjective and adding the ending "*-ior, -ius*".  This ending makes every adjective a third declension adjective.  The *-ior* ending is for masculine and feminine, and the *-ius* ending is neuter.  For example, if we take the adjective "happy":
 
@@ -21,5 +24,5 @@ and it would be declined with first and second declension endings.  The superlat
 *A few key terms*
 - **degrees**
 - **positive**
-- **comparative**
-- **superlative**
+- **{comparative}[comp]**
+- **{superlative}[supadj]**
