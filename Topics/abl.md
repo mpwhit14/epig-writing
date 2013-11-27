@@ -7,7 +7,9 @@ The {ablative}[abl] case can usually be translated with "by" or "with".  This ca
 
 			[ablative in regards to coins??]
 
-**First Declension**
+**{First Declension}[decl1]**
+
+[decl1]: urn:cite:hclat:category.decl1
 
 Case | Singular | Plural
 
@@ -23,7 +25,9 @@ Dative | -ae | -is
 - *femina*, for the woman | *feminis*, for the women
 - *via*, for the road | *viis*, for the roads
 
-**Second Declension**
+**{Second Declension}[decl2]**
+
+[decl2]: urn:cite:hclat:category.decl2
 
 Case | Singular | Plural
 
@@ -39,7 +43,9 @@ Dative | -o | -is
 - *puero*, to the boy | *pueris*, to the boys
 - *agri*, for the field | *agris*, for the fields
 
-**Third Declension**
+**{Third Declension}[decl3]**
+
+[decl3]: urn:cite:hclat:category.decl3
 
 Case | Singular | Plural
 
