@@ -26,3 +26,11 @@ and it would be declined with first and second declension endings.  The superlat
 - **positive**
 - **{comparative}[comp]**
 - **{superlative}[supadj]**
+
+####Practice
+
+urn:cite:shot:epigimg.IMG_7995@0.575,0.4067,0.149,0.0413
+urn:cite:shot:epigimg.IMG_7994@0.2793,0.2461,0.1822,0.0278
+urn:cite:shot:epigimg.IMG_7997@0.176,0.4853,0.412,0.0893
+urn:cite:shot:epigimg.IMG_7123@0.2823,0.2573,0.4084,0.0675
+urn:cite:shot:epigimg.IMG_5214@0.56,0.6253,0.352,0.064
