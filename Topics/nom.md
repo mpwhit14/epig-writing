@@ -61,3 +61,15 @@ Case | Singular | Plural
 
 - **{nominative}[nom]**
 - **stem**
+
+####Practice
+
+urn:cite:shot:epigimg.IMG_7935@0.64,0.5667,0.089,0.0373
+urn:cite:shot:epigimg.IMG_2723@0.139,0.2553,0.437,0.1351
+urn:cite:shot:epigimg.IMG_6416@0.556,0.4587,0.217,0.0707
+urn:cite:shot:epigimg.IMG_7640@0.304,0.388,0.192,0.1093
+urn:cite:shot:epigimg.IMG_7123@0.5495,0.1905,0.2833,0.0675
+urn:cite:shot:epigimg.IMG_7124@0.215,0.7187,0.134,0.1053
+urn:cite:shot:epigimg.IMG_5798@0.713,0.1613,0.121,0.0747
+urn:cite:shot:epigimg.IMG_6398@0.107,0.1747,0.212,0.092
+urn:cite:shot:epigimg.IMG_7124@0.063,0.212,0.387,0.1893
