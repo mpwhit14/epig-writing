@@ -64,4 +64,7 @@ Nominative | (varies) | -es
 
 urn:cite:shot:epigimg.IMG_4596@0.381,0.3253,0.211,0.0867
 urn:cite:shot:epigimg.IMG_2719@0.146,0.2643,0.271,0.1171
-
+urn:cite:shot:epigimg.IMG_7126@0.2082,0.2686,0.6777,0.0945
+urn:cite:shot:epigimg.IMG_7130@0.323,0.3333,0.235,0.1227
+urn:cite:shot:epigimg.IMG_7126@0.2693,0.3548,0.5365,0.0885
+urn:cite:shot:epigimg.IMG_7117@0.607,0.5707,0.229,0.1027
