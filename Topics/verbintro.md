@@ -17,7 +17,7 @@ We know that Latin nouns have different characteristics that are expressed by th
 3.  Tense
     - There are more tenses in Latin than there are in English, but generally, past, present, and future.
 4.  Voice
-    - **{active*}[act]* (The subject is doing the action, e.g. "I am walking the dog.")
+    - **{active}[act]** (The subject is doing the action, e.g. "I am walking the dog.")
 [act]: urn:cite:hclat:category.active
     - **{passive}[pass]** (The subject is being acted upon, e.g. "The dog is being walked by me.")
 [pass]: urn:cite:hclat:category.passive
