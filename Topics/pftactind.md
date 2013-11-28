@@ -42,3 +42,10 @@ Singular | Plural
 - **{perfect}[perf]**
 - **stem**
 - **conjugate**
+
+####Practice
+
+urn:cite:shot:epigimg.IMG_2717@0.698,0.1892,0.167,0.0991
+urn:cite:shot:epigimg.IMG_2717@0.501,0.8018,0.277,0.1201
+urn:cite:shot:epigimg.IMG_5798@0.232,0.7627,0.357,0.0773
+urn:cite:shot:epigimg.IMG_7638@0.391,0.2707,0.255,0.096
