@@ -1,6 +1,8 @@
 ####The Perfect Active Indicative
 
-There are six tenses in Latin, but this section focuses only on one:  the **perfect** tense.  The perfect tense is similar to the past tense in English.  The difference is that English has one tense to express everything that happened in the past, and Latin has two.  Latin distinguished between two different types of past action - action that happened in the past and continued to happen, and action that happened in the past and is completed.  For example, this is an English example of continued past action:
+There are six tenses in Latin, but this section focuses only on one:  the **{perfect}[perf]** tense.  The perfect tense is similar to the past tense in English.  The difference is that English has one tense to express everything that happened in the past, and Latin has two.  Latin distinguished between two different types of past action - action that happened in the past and continued to happen, and action that happened in the past and is completed.  For example, this is an English example of continued past action:
+
+[perf]: urn:cite:hclat:category.perfect
 
 While I was eating breakfast, my mother *was sitting*.
 
@@ -37,6 +39,6 @@ Singular | Plural
 *A formula for the perfect active indicative*:  perfect stem + perfect ending
 
 *A few key terms*
-- **perfect**
+- **{perfect}[perf]**
 - **stem**
 - **conjugate**
