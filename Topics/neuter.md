@@ -19,3 +19,13 @@ Case | Singular | Plural
 Nominative | (varies) | -a
 
 Accusative | (same as nominative) | -a
+
+*A few key terms*
+
+- **neuter**
+
+####Practice
+
+urn:cite:shot:epigimg.IMG_7033@0.039,0.548,0.567,0.1467
+urn:cite:shot:epigimg.IMG_7995@0.542,0.524,0.213,0.0413
+urn:cite:shot:epigimg.IMG_7995@0.575,0.4067,0.149,0.0413
