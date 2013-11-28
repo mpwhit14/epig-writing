@@ -17,20 +17,26 @@ We know that Latin nouns have different characteristics that are expressed by th
 3.  Tense
     - There are more tenses in Latin than there are in English, but generally, past, present, and future.
 4.  Voice
-    - **active** (The subject is doing the action, e.g. "I am walking the dog.")
-    - **passive** (The subject is being acted upon, e.g. "The dog is being walked by me.")
+    - **{active*}[act]* (The subject is doing the action, e.g. "I am walking the dog.")
+[act]: urn:cite:hclat:category.active
+    - **{passive}[pass]** (The subject is being acted upon, e.g. "The dog is being walked by me.")
+[pass]: urn:cite:hclat:category.passive
 5.  Mood
-    - The mood of a verb essentially shows the degree of certainty about the verb.  There are three moods in Latin: the **indicative**, the **subjunctive** and the **imperative**.  At first, we will be working with verbs in the indicative mood - verbs that express something totally certain.
+    - The mood of a verb essentially shows the degree of certainty about the verb.  There are three moods in Latin: the **{indicative}[ind]**, the **{subjunctive}[subj]** and the **{imperative}[imp]**.  At first, we will be working with verbs in the indicative mood - verbs that express something totally certain.
+
+[ind]: urn:cite:hclat:category.indicative
+[subj]: urn:cite:hclat:category.subjunctive
+[imp]: urn:cite:hclat:category.imperative
 
 *A few key terms*
 
 - **principal parts**
 - **tense**
 - **voice**
-- **active**
-- **passive**
+- **{active}[act]**
+- **{passive}[pass]**
 - **mood**
-- **indicative**
-- **subjunctive**
-- **imperative**
+- **{indicative}[ind]**
+- **{subjunctive}[subj]**
+- **{imperative}[imp]**
 
