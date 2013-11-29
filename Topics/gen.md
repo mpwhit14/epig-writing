@@ -2,7 +2,7 @@
 
 The **{genitive}[gen]** case is used for possession.  It is translated with "of".  In English, we say "Mom's dog" or "the dog of Mom" - these mean the same thing in English, and they are both translated with the genitive case in Latin.
 
-[gen] urn:cite:hclat:category.genitive
+[gen]: urn:cite:hclat:category.genitive
 
 **{First Declension}[decl1]**
 
