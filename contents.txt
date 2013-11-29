@@ -14,3 +14,5 @@ pftactind.md
 acc.md
 example2.md
 neuter.md
+pronoun.md
+
