@@ -17,3 +17,4 @@ neuter.md
 pronoun.md
 relpro.md
 conjugation.md
+impftactind.md
