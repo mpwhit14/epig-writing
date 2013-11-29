@@ -1,1 +1,15 @@
 introduction.md
+decl123.md
+caseNumGen.md
+nom.md
+dat.md
+inscriptionguide.md
+example1.md
+abl.md
+adjintro.md
+compsupadj.md
+verbintro.md
+pftactind.md
+acc.md
+example2.md
+neuter.md
