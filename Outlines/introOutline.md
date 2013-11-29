@@ -12,6 +12,8 @@ Roman numerals/numbers
 
 ####Dative
 
+####Genitive
+
 ####Ablative
 
 			[able to read COINS]
