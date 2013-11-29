@@ -16,10 +16,6 @@ Nominative | -a | -ae
 
 Dative | -ae | -is
 
-Accusative | -am | -as
-
-Ablative | -a | -is
-
 **Exempli Gratia**
 
 - *puellae*, of the girl | *puellarum*, of the girls
@@ -38,10 +34,6 @@ Nominative | -us/-r | -i
 
 Dative | -o | -is
 
-Accusative | -um | -os
-
-Ablative | -o | -is
-
 **Exempli Gratia**
 
 - *Romani*, of the Roman | *Romanorum*, of the Romans
@@ -59,10 +51,6 @@ Nominative | (varies) | -es
 **Genitive** | -is | -um
 
 Dative | -i | -ibus
-
-Accusative | -em | -es
-
-Ablative | -e | -ibus
 
 **Exempli Gratia**
 
