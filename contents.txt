@@ -3,6 +3,7 @@ decl123.md
 caseNumGen.md
 nom.md
 dat.md
+gen.md
 inscriptionguide.md
 example1.md
 abl.md
