@@ -8,7 +8,7 @@ Rome, Italy
 
 ####Full Text
 
-urn:cite:shot:inscriptions.doc15:1-2
+urn:cts:latepig:inscriptions.doc15:1-2
 
 *Vocabulary*
 - *divus, diva, divum*
