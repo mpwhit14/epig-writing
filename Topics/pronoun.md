@@ -20,6 +20,10 @@ Dative | *tibi* (to/for you) | *vobis* (to/for you)
 Accusative | *te* (you) | *vos* (you)
 Ablative | *te* (by/with you) | *vobis* (by/with you)
 
+*A few key terms*
+- **pronoun**
+- **personal pronoun**
+
 ####Practice
 
 urn:cite:shot:epigimg.IMG_5219@0.52,0.6387,0.233,0.096
