@@ -12,6 +12,8 @@ Roman numerals/numbers
 
 ####Dative
 
+####Genitive
+
 ####Ablative
 
 			[able to read COINS]
@@ -42,11 +44,11 @@ Roman numerals/numbers
 			[able to read MOST INSCRIPTIONS]
 ####Neuter
 
-- Personal pronouns
+####Personal pronouns
 
-- Relative pronouns
+####Relative pronouns
 
-- Imperfect active
+####Imperfect active
 
 			[teach the imperfect first, because it is seen more often]
 			[CIL 3.10501 By Roman Hands p15]
