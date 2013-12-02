@@ -1,0 +1,5 @@
+introduction.md=Introduction
+material_outcome.md=Material outcome
+digitalClassroom.md=Digital classroom
+RDF.md=RDF
+inscriptionguide.md=Guide to reading inscriptions
