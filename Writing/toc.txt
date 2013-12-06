@@ -1,5 +1,24 @@
 introduction.md=Introduction
-material_outcome.md=Material outcome
-digitalClassroom.md=Digital classroom
-RDF.md=RDF
+material_outcome.md=Material Outcome of the project
+digitalClassroom.md=Latin Epigraphy and the Digital Classroom
+RDF.md=The RDF Graph
+decl123.md=About Declensions
+caseNumGen.md=About Nouns
+nom.md=Nominative Practice
+dat.md=Dative Practice
+gen.md=Genitive Practice
 inscriptionguide.md=Guide to reading inscriptions
+example1.md=Example Inscription 1
+abl.md=Ablative Practice
+adjintro.md=About Adjectives
+compsupadj.md=Degrees of Adjectives
+verbintro.md=About Verbs
+pftactind.md=The Perfect Active Indicative
+acc.md=Accusative Practice
+example2.md=Example Inscription 2
+neuter.md=The Neuter
+pronoun.md=About Pronouns
+relpro.md=About Relative Pronouns
+conjugation.md=Verb Conjugations
+impftactind.md=The Imperfect Active Indicative
+

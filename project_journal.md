@@ -1,5 +1,10 @@
 ## Project Journal
 
+**6 December 2013**
+
+How to embed pictures in leanpub?
+Finished looking for corpus ref. numbers in Heidlberg Database
+
 **22 November 2013**
 
 Continued to add corpus reference numbers, where I can find them in the Heidleberg project.
