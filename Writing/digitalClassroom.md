@@ -1,3 +1,5 @@
+##The Digital Classroom
+
 This project is so technologically focused that it raises the question: how can we implement this technology in a classroom setting, particularly in an introductory language course?  When a teacher can create his or her own source material and distribute it in eBook format, does that change the way the students and teacher interact with the material?
 
 Outside of the classroom, the accessibility of the material can lead to more collaborative learning.  With a project like this, a teacher can easily create guides and workbooks that play directly into what he or she does in the classroom, so there is a continuity of teaching style.  In addition, all the information from the teacher is available to anyone with an internet connection.  It does not require special tools or programs to be viewed.  The worries about conflicting operating systems and the excuse "I couldn't open the file" are virtually erased, because everything is written in simple text format that can be viewed in any browser.

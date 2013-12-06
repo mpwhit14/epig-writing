@@ -1,4 +1,4 @@
-**Material outcome of the project**
+##Material outcome of the project
 
 My vision for the material outcome of this project is in two parts: first, a catalog of epigraphic material I have, and second, a "guided tour" through that material.
 

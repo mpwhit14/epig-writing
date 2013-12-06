@@ -1,4 +1,4 @@
-**Introduction**
+##Introduction
 
 Last week, I was talking to a friend of mine in Latin 101 about his upcoming midterm.  "I have the greatest idea," he exclaimed suddenly.  "I know how I am going to study for this Latin exam:  Spreadsheets.  So many spreadsheets."
 
