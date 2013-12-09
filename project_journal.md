@@ -1,5 +1,13 @@
 ## Project Journal
 
+**9 December 2013**
+
+-->need guide on roman numerals
+-->need guide on roman dating
+-->need guide on roman naming
+-->need shortlist of inscriptions
+-->need guide on github
+
 **6 December 2013**
 
 How to embed pictures in leanpub?

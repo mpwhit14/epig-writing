@@ -13,23 +13,23 @@ Latin epigraphy is the study of ancient Roman writing.  This is not limited to i
 
 ###A few frequently-asked-questions
 
-*1) How do I read this when there is no spacing or punctuation??* 
+*1) How do I read this when there is no spacing or punctuation?* 
 
 Reading Latin epigraphy is not as difficult as it seems.  With practice, it will become easier and easier.  Most inscriptions have little points between every word, which help the reader determine where one word ends and the next begins.  In addition, some inscriptions have a deliberate visual placement:  that is, the text is centered, ordered, and divided into chunks in a very deliberate way.  These sentence chunks mirror the grammatical structure of the text, which aids us in translation.
 
-For example, consider the {Arch of Septimius Severus}[arch].  When you look at the main inscription on the top of the arch, the text looks centered on the monument and some lines are a lot shorter than the others.  This is most likely a purposeful arrangement of the lines.  The {first few lines}[archline1-2] begins the inscription by announcing for whom the monument was built.  This is a very typical construction for dedicatory inscriptions of this kind:  the understood sentence is "This monument was built..." and the inscription answers "for whom?".  So, the first line is a list of titles related to the emperor, Septimius Severus.  The {third line}[archline3] continues in this pattern, adding that the arch was built not only for Septimius Severus, but also for his son Marcus Aurelius Antoninus (better known to us as Caracalla).  The {fourth line}[archline4] then addresses both men at the same time with adjectives in the plural, and the {fourth line}[archline4} finally describes *why* the arch is being built for them.  
+For example, consider the {Arch of Septimius Severus}[arch].  When you look at the main inscription on the top of the arch, the text looks centered on the monument and some lines are a lot shorter than the others.  This is most likely a purposeful arrangement of the lines.  The {first few lines}[archline1] begin the inscription by announcing for whom the monument was built.  This is a very typical construction for dedicatory inscriptions of this kind:  the understood sentence is "This monument was built..." and the inscription answers "for whom?".  So, the first line is a list of titles related to the emperor, Septimius Severus.  The {third line}[archline3] continues in this pattern, adding that the arch was built not only for Septimius Severus, but also for his son Marcus Aurelius Antoninus (better known to us as Caracalla).  The {fourth line}[archline4] then addresses both men at the same time with adjectives in the plural, and the {fourth line}[archline4} finally describes *why* the arch is being built for them.  
 
-The fourth line is historically interesting because it was scratched out and written over after the *damnatio memoriae* of Geta (which will be discussed later on), but it can be seen that even the original line was by far the shortest of the inscription.  The {fifth line}[archline5], which is entirely one prepositional phrase, seems to be set apart - perhaps *because* it is entirely one prepositional phrase.  
+The fourth line is historically interesting because it was scratched out and written over after the *damnatio memoriae* of Geta, another son of Septimius Severus, but it can be seen that even the original line was by far the shortest of the inscription.  The {fifth line}[archline5], which is entirely one prepositional phrase, seems to be set apart - perhaps *because* it is entirely one prepositional phrase.  
 
-*2) What do all of those letters mean??*
+*2) What do all of those letters mean?*
 
 Inscriptions tend to be ripe with abbreviations, which makes sense - carving into stone is hard work, so why write the whole word if you do not really have to?  Some abbreviations are easy to figure out, such as "f" for "filius" or "imp" for "imperator".  However, other abbreviations are not used nearly as often.
 
 [Shortlist of MOST COMMON?]
 
-*3) They are using Roman numerals!  How do I tell the difference between a letter and a number??*
+*3) They are using Roman numerals!  How do I tell the difference between a letter and a number?*
 
-A bar is usually drawn over numerals in order to represent thousands.  The rest of the time, there is nothing differentiating numerals from letters, except that a numeral is set apart by small points on each side (like the other words in an inscription).  The following symbols are used for Roman numerals in Latin inscriptions:
+Sometimes, a bar is drawn over numerals in order to represent thousands.  The rest of the time, there is nothing differentiating numerals from letters, except that a numeral is set apart by small points on each side (like the other words in an inscription).  The following symbols are used for Roman numerals in Latin inscriptions:
 
 **I** = 1
 **V** = 5
@@ -39,12 +39,8 @@ A bar is usually drawn over numerals in order to represent thousands.  The rest 
 **D** = 500
 **Q** = 500,000
 
--->need guide to roman numerals
--->need guide to dating
--->need guide to names
-
-[arch]{urn:cite:shot:epigimg.IMG_4798}
-[archline1-2]{urn:cts:latepig:inscriptions.doc18:1-2}
-[archline3]{urn:cts:latepig:inscriptions.doc18:3}
-[archline4]{urn:cts:latepig:inscriptions.doc18:4}
-[archline5]{urn:cts:latepig:inscriptions.doc18:5}
+[arch]: {urn:cite:shot:epigimg.IMG_4798}
+[archline1]: {urn:cts:latepig:inscriptions.doc18:1-2}
+[archline3]: {urn:cts:latepig:inscriptions.doc18:3}
+[archline4]: {urn:cts:latepig:inscriptions.doc18:4}
+[archline5]: {urn:cts:latepig:inscriptions.doc18:5}
