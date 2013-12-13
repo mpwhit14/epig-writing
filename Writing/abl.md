@@ -67,8 +67,16 @@ Dative | -i | -ibus
 
 ####Practice
 
-urn:cite:shot:epigimg.IMG_8001@0.251,0.4613,0.468,0.1333
-urn:cite:shot:epigimg.IMG_7129@0.3794,0.7742,0.1812,0.0473
+[![quoteimg1][img1]][img1zoom]
+
+[img1]: urn:cite:shot:epigimg.IMG_8001@0.251,0.4613,0.468,0.1333
+[img1zoom]: urn:cite:shot:epigimg.IMG_8001
+
+[![quoteimg2][img2]][img2zoom]
+
+[img2]: urn:cite:shot:epigimg.IMG_7129@0.3794,0.7742,0.1812,0.0473
+[img2zoom]: urn:cite:shot:epigimg.IMG_7129
+
 urn:cite:shot:epigimg.IMG_8039@0.689,0.588,0.136,0.048
 urn:cite:shot:epigimg.IMG_7994@0.3734,0.2243,0.2553,0.0278
 urn:cite:shot:epigimg.IMG_4611@0.683,0.4813,0.187,0.0627
