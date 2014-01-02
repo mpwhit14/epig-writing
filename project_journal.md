@@ -1,5 +1,9 @@
 ## Project Journal
 
+**2 January 2014**
+
+Edited 7 images.
+
 **9 December 2013**
 
 -->need guide on roman numerals
