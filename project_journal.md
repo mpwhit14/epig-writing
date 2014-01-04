@@ -1,5 +1,9 @@
 ## Project Journal
 
+**4 January 2014**
+
+Edited 7 images.
+
 **3 January 2014**
 
 Edited 8 images.
