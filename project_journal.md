@@ -1,5 +1,9 @@
 ## Project Journal
 
+**8 January 2014**
+
+Made xml documents for 10 images, need to be edited
+
 **4 January 2014**
 
 Edited 7 images.
