@@ -1,5 +1,11 @@
 ## Project Journal
 
+**6 February 2014**
+
+Thoughts on validating:
+- validate tokenized text
+- make sure all xml documents are good
+
 **10 January 2014**
 
 Made xml documents for 10 images, need to be edited
