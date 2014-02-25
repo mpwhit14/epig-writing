@@ -11,3 +11,4 @@ In order to improve upon the material and develop the project further, I would l
 - Unknown abbreviations deciphered
 - Grammatical concepts expanded to include complicated structures, like subordinate clauses
 - Translations
+- Additional information about the inscriptions added
