@@ -1,4 +1,4 @@
-## Sample Lesson 1: Arch of Titus
+## Sample Lesson 1: Inscription study
 
 ### Objectives
 - to reinforce the dative case
