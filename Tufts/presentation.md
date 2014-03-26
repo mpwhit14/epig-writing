@@ -1,19 +1,5 @@
 ##Tufts presentation
 
-Points to make:
-
-1.  How my editing is done
-2.  Things I have added on that are not just editorial
-      - Digital editions can be worked with in **more** ways than print editions
-      - Concepts and topics tree
-      - Geographical data
-      - Character data
-      - Allows for viewing the texts in different contexts
-3.  How do we organize and structure an archive for multiple kinds of use/reuse?
-      - Multipurpose
-      - My archive is open to automated analysis but also handcrafted essays (since it is citeable)
-      - Textbook vocab?  Morphological analysis?
-
 ##Outline
 
 1.  Editing Latin Inscriptions
