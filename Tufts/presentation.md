@@ -1,6 +1,7 @@
 ##Tufts presentation
 
 Points to make:
+
 1.  How my editing is done
 2.  Things I have added on that are not just editorial
       - Digital editions can be worked with in **more** ways than print editions
