@@ -1,4 +1,13 @@
 
+My project is Latin Epigraphy and Pedagogy.  I am creating a resource that allows a teacher to easily bring primary source material into a classroom.  Primary source material can enrich the learning experience, particularly when it comes to a historical language like Latin.  For a student, the ability to work with an real inscription carved by real Romans can make Latin REAL - through such immediacy of contact, the student becomes more aware that Latin is a language, not just an exercise in a textbook.
+
+As I said before, my goal is to create a resource, not a tool.  This is not supposed to be something with one specific purpose that has to be scrapped in a year or two.  It is adaptable - the material can be used and reused in a variety of different ways because of the nature of the project.
+
+To create this resource, I began by amassing a collection of my original photography under a Creative Commons license.  Then, similar to the Homer Multitext and the Josephus project, I put together digital diplomatic editions keyed to those images, as you can see **here**.  In order to make a more useful resource, I then decided to add a few more layers of analysis which could be access points into the material.  Within my digital diplomatic editions, I have marked prosopographic and geographic data and created indices of these characters and places.
+
+
+
+-----------
 
 1.  My personal project, Latin Epigraphy and Pedagogy, aims to create a tool to bring epigraphy into the classroom, particularly a first-year classroom.  
       - My work has involved essentially the same editorial process with an entirely different kind of material - Latin inscriptions.  
