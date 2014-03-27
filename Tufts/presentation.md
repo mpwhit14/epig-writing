@@ -1,21 +1,18 @@
 ##Tufts presentation
 
-##Outline
-
 1.  Editing Latin Inscriptions
-      - Same process as the other projects
-      - XML documents of transcribed text, appropriately tagged (abbr, expan, etc)
+      - XML documents
 2.  Beyond Editing
-      - Character and geographical data
-      - Sections of images linked with concepts and topics
-      - Morphological analysis
-      - RDF
+      - [Sections of images linked with concepts and topics][link1]
+      - [Character and geographical data][link2]
+      - [Morphological analysis][link3]
 3.  The RDF Graph and texts in context
       - Many different access points into the material
-      - Allows for viewing text in context:  geographical, historical, grammatical, linguistic
-      - Structure is multipurpose, accessible, reusable - not just a textbook
+      - Not just a textbook - multipurpose, accessible, reusable
       - Automated analysis but also citeable for handcrafted essays
-      - Automated analysis from a pedagogical perspective:
-            - What topics come up more often?
-            - What inscriptions use vocabulary my students are already familiar with?
+      - Allows for viewing text in context
+
+[link1]: http://beta.hpcc.uh.edu/tomcat/latinsources/hivemap.html
+[link2]: screengrab
+[link3]: screengrab
 
