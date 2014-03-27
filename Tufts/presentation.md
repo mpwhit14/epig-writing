@@ -13,6 +13,6 @@
       - Allows for viewing text in context
 
 [link1]: http://beta.hpcc.uh.edu/tomcat/latinsources/hivemap.html
-[link2]: screengrab
-[link3]: screengrab
+[link2]: screengrab1
+[link3]: screengrab?
 
