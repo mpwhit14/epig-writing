@@ -77,7 +77,7 @@
 
 - many different access points into the material
 - allows for viewing text in context
--  automated analysis but also citeable for handcrafted essays
+-  automated analysis but also citable for handcrafted essays
 
 ---
 
