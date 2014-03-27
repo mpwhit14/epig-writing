@@ -4,7 +4,7 @@
       - XML documents
 2.  Beyond Editing
       - [Sections of images linked with concepts and topics][link1]
-      - [Character and geographical data][link2]
+      - ![Character and geographical data][screengrab1]
       - [Morphological analysis][link3]
 3.  The RDF Graph and texts in context
       - Many different access points into the material
@@ -13,6 +13,6 @@
       - Allows for viewing text in context
 
 [link1]: http://beta.hpcc.uh.edu/tomcat/latinsources/hivemap.html
-[link2]: screengrab1
+[screengrab1]: screengrab1
 [link3]: screengrab?
 
