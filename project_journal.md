@@ -1,5 +1,6 @@
 ## Project Journal
 
+
 **6 February 2014**
 
 Thoughts on validating:
