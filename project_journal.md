@@ -1,5 +1,9 @@
 ## Project Journal
 
+**8 April 2014**
+
+HTML - divided into three sections
+- map
 
 **6 February 2014**
 
