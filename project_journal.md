@@ -1,5 +1,13 @@
 ## Project Journal
 
+**14 April 2014**
+
+Today I created a github page for the material.
+TO DO
+- can I visualize the whole graph?
+- can I make a map for the geographic data?
+- WRITE WRITE WRITE
+
 **8 April 2014**
 
 HTML - divided into three sections
