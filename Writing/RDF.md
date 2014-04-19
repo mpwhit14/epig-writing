@@ -17,3 +17,6 @@ Second, there is the vocabulary entrance.  We are working on creating digital ed
 There is also potential for entrance into the data by particular historical characters, who are being identified and tagged in the digital editions, or by location of the artifacts, which will soon be related to mappable coordinates thanks to the Pleiades project.  These kinds of entry into the data allow for a class or a lesson built around a particular theme, or historical thread.  
 
 There are as many possibilities for viewing and adapting the material as there are pieces of data - it just depends on the needs of the classroom and the teacher.  This is the largest benefit of the RDF graph: adaptability.  In addition, as stated above, it also allows for growth and development without any loss of the original material.  The connections that are in place will not vary or change with time, because they are completely independent of location or of operating system.  New connections and information can be added - the map can become bigger and richer - but the points of entry will not change (except perhaps more will be available).
+
+#Notes
+- how is it stored? Triples? .csv?
