@@ -11,7 +11,7 @@
 
 ## Goal: resources, not tools
 
-- organized body of citable  material
+- organized body of citable material
 - adaptable: can be reused in any number of ways
 - long-term: not dependent on one software
 
@@ -104,8 +104,11 @@
 
 ## Rethinking our curriculum
 
-- find source material for a topic, or...
-- organize curriculum in terms of corpus
+- [find source material for a topic][search], or...
+- [organize curriculum in terms of corpus][distribution]
+
+[search]:
+[distribution]:
 
 ---
 
