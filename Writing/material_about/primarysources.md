@@ -1,4 +1,4 @@
-##Importance of using primary sources in the study of Latin
+#Importance of using primary sources in the study of Latin
 
 The ability to physically touch something gives way to a truer, more personal relationship with an object and the history associated with that object.  In my own experience, standing in the Colosseum can imbue one with a feeling of connectedness, the weight of all the history that happened in that very spot, and a strong sense of the very real people who walked through that dust before.  Artifacts once held by ancient hands can provide the same feeling.
 

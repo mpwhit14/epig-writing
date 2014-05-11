@@ -1,4 +1,4 @@
-##The Collection
+#The Collection
 
 This project began as a collection of images of Latin inscriptions, which I took during my junior year abroad.  First, I created digital diplomatic editions of the text in each image.  These editions reflect what exactly is going on in every inscription.  Because they are written in markup language, it is possible to run automated analysis on each edition.
 

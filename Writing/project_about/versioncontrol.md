@@ -1,4 +1,4 @@
-##Guide to Github
+#Guide to Github
 
 All of the work on this project was done using Git, a distributed version control system.  A version control system keeps track of all the changes made to a file or a set of files so that specific versions can be retrieved.  A distributed version control system, such as Git, lets multiple computers "check out" the files under version control, which are called a repository.  When the repository is checked out on multiple servers, it is backed up every time - so if one computer crashes, all the data is not lost.  In addition, all the changes are tracked, and when the repository is pushed back up to the main server, in our case hosted by Github, the changes made on different computers are reconciled and merged together.  This allows for collaborative work without risk of losing any vital information, since all versions of the repository are stored and can be accessed.
 
@@ -12,6 +12,6 @@ The Git repository for this project includes the digital diplomatic editions, th
 
 [latinsrcs]: http://github.com/neelsmith/latinsrcs
 
-#Notes
+###Notes
 
 - talk about sevlet

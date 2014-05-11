@@ -1,4 +1,4 @@
-##The RDF Graph
+#The RDF Graph
 
 All of the information in this project is organized in an RDF map.  RDF, which stands for Resource Description Framework, is a simple way to organize information on the semantic web.  Every piece of information is part of a "triple".  A triple is essentially a sentence which can be expressed with a "subject", "verb", and "object".  For example, in this project, we often see the relationship of a particular grammatical topic to a section of an image. In RDF, this relationship is expressed as "section of image" (subject) "illustrates" (verb) "grammatical topic" (object).  The relationship can be flipped on its head, as well ("grammatical topic" "is illustrated by" "section of image").  These relationships are stored in tables and create very simple graphs of data.
 
@@ -18,5 +18,5 @@ There is also potential for entrance into the data by particular historical char
 
 There are as many possibilities for viewing and adapting the material as there are pieces of data - it just depends on the needs of the classroom and the teacher.  This is the largest benefit of the RDF graph: adaptability.  In addition, as stated above, it also allows for growth and development without any loss of the original material.  The connections that are in place will not vary or change with time, because they are completely independent of location or of operating system.  New connections and information can be added - the map can become bigger and richer - but the points of entry will not change (except perhaps more will be available).
 
-#Notes
+###Notes
 - how is it stored? Triples? .csv?

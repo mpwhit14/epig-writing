@@ -1,4 +1,4 @@
-##How to read an inscription
+#How to read an inscription
 
 At first glance, most Latin inscriptions can be somewhat overwhelming.  There is no punctuation, little spacing between words, and they are full of abbreviations as short as one letter.  The text does not seem like Latin or really any language at all.  However, after some close examination, we may discover that the inscriptions are not as difficult to read as we thought they were.  There are many clues that can help us not only read the text, but also find out more about the artifact.
 

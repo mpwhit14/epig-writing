@@ -1,4 +1,4 @@
-##How to use this project
+#How to use this project
 
 As has been explained above, the material of this project is constructed in an RDF graph, so there are as many access points into the material as there are data members.  In order to make the project most easily accessible, we have highlighted a few access points that we think would be most useful for bringing the material into a classroom or adapting it to a curriculum.
 
