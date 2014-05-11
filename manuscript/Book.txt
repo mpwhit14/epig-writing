@@ -1,0 +1,14 @@
+about_information.md
+RDF.md
+collection.md
+editing_process.md
+howto_use.md
+versioncontrol.md
+digital_classroom.md
+futuredevelopment.md
+about_material.md
+inscriptionguide.md
+primarysources.md
+howto_git.md
+howto_vm.md
+
