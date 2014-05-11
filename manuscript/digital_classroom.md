@@ -1,4 +1,4 @@
-##The Digital Classroom
+#The Digital Classroom
 
 This project is so technologically focused that it raises the question: how can we implement this technology in a classroom setting, particularly in an introductory language course?  When a teacher can create his or her own source material and distribute it in eBook format, does that change the way the students and teacher interact with the material?
 

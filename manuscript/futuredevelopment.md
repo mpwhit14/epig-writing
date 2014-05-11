@@ -1,4 +1,4 @@
-##Possibilities for future development
+#Possibilities for future development
 
 One of the benefits of having a large digital corpus is the ability to automatically collect statistics about the material in the corpus.  When we have data, we can then begin to construct a curriculum.  Rather than working from a prescribed curriculum and trying to find material that fits, it is possible to start from the bottom up, and create a curriculum based on the data.
 
