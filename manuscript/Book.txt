@@ -4,8 +4,8 @@ collection.md
 editing_process.md
 howto_use.md
 versioncontrol.md
-digital_classroom.md
 futuredevelopment.md
+digital_classroom.md
 about_material.md
 inscriptionguide.md
 primarysources.md
