@@ -1,3 +1,4 @@
+cover.md=Latin Epigraphy and Pedagogy
 project_about/about_information.md=About the project
 project_about/RDF.md=The RDF Graph
 project_about/collection.md=The Data
@@ -10,6 +11,4 @@ about_material.md=About the material
 material_about/inscriptionguide.md=Guide to reading inscriptions
 material_about/primarysources.md=Primary Sources and the Study of Latin
 project_about/howto_git.md=Installing Git
-project_about/howto_vm.md=Installing a Virtual Machine
-
 

@@ -1,3 +1,5 @@
+abstract.md
+cover.md
 about_information.md
 RDF.md
 collection.md
@@ -10,5 +12,3 @@ about_material.md
 inscriptionguide.md
 primarysources.md
 howto_git.md
-howto_vm.md
-
